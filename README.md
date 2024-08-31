@@ -34,9 +34,13 @@ This project includes various scripts and documentation to assist in securing th
 
 Key Steps in the Project:
 Network Assessment: Conduct a thorough assessment of the existing network architecture to identify vulnerabilities and areas for improvement.
+
 Firewall Configuration: Implement and configure firewalls to control incoming and outgoing network traffic based on predetermined security rules.
+
 Intrusion Detection System (IDS): Set up an IDS to monitor network traffic for suspicious activity and potential threats.
+
 Secure Remote Access: Establish secure VPN connections for remote employees to access the network safely.
+
 Policy Development: Create and recommend network security policies and procedures to guide employees in maintaining a secure environment.
 
 ## Network Architecture
