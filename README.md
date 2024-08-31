@@ -43,8 +43,11 @@ Policy Development: Create and recommend network security policies and procedure
 The network architecture consists of the following components:
 
 Firewalls: Placed at the network perimeter to filter traffic and protect against unauthorized access.
+
 IDS: Monitors network traffic for suspicious activity and alerts administrators to potential threats.
+
 VPN Gateway: Provides secure remote access for employees working from outside the office.
+
 Internal Servers: Hosts critical business applications and sensitive data, requiring strict access controls.
 
 ## Findings and Recommendations
